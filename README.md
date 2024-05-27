@@ -28,4 +28,10 @@
 
 3. pyspark
 
-   作者进一步实现了在pycharm上pyspark环境的配置，并完成了pyspark代码的编写 
+   作者进一步实现了在pycharm上pyspark环境的配置，并完成了pyspark代码的编写
+   
+   期间因为作者第一次接触pyspark库，debug的过程异常艰难
+
+   所以作者小组内同学自己编写了一个数据集，数据量只有50行左右，但其中包含了符合项目条件的所有正常与特殊情况[cdinfo.txt](DATA/cdinfo_s.txt), [infexted.txt](DATA/infected_s.txt)
+
+   [数据集说明](DATA/感染者（类型）.txt)
