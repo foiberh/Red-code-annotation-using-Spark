@@ -24,7 +24,7 @@
    1. 虚拟机存储空间不足
    2. Spark完全分布式集群若想在本地运行，需要将数据储存在所有节点的相同路径下，而且本地运行不太稳定。若将数据先上传至HDFS，由于文件较大，且校园网不太稳定，耗时预估两个小时左右。
 
-2. 此时组内另一位同学完成了Windows系统下Spark集群的搭建，并完成了[Scala代码](CODE/redcode.scala)的编写与运行
+2. 此时组内另一位同学完成了Windows系统下Spark集群的搭建，并完成了[Scala代码](CODE/redcode.scala)的编写与运行[(说明)](https://github.com/jianghehuiwang/redcode)
 
    我们将这种方法也保留为最终的方案之一
 
